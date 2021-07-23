@@ -3,9 +3,9 @@
 #### Junior Developer @Truststamp
 
 
-[<img align="left" alt="Jospin Rugamba Bahizi | Twitter" width="20px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] 
-[<img align="left" alt="Jospin Rugamba Bahizi | LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] 
-<br>
+<a href="https://twitter.com/jospinrugamba">
+  <img align="left" alt="Jospin Rugamba Bahizi| Twitter" width="21px" src="assets/twitter.png" />
+</a>
 
 ---
 
