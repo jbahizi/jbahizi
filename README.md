@@ -6,7 +6,9 @@
 <a href="https://twitter.com/jospinrugamba">
   <img align="left" alt="Jospin Rugamba Bahizi| Twitter" width="21px" src="assets/twitter.png" />
 </a>
+
 <br/>
+
 ---
 
 <!-- <a href="https://github.com/jbahizi">
