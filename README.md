@@ -1,13 +1,13 @@
-## Hi there, I am Jospin Rugamba Bahizi
+## Jospin Rugamba Bahizi
 
-#### Junior Developer @Truststamp
+#### Junior AI Developer @Truststamp
 
 
-<a href="https://twitter.com/jospinrugamba">
+<!-- <a href="https://twitter.com/jospinrugamba">
   <img align="left" alt="Jospin Rugamba Bahizi| Twitter" width="21px" src="assets/twitter.png" />
 </a>
 
-<br/>
+<br/> -->
 
 ---
 
